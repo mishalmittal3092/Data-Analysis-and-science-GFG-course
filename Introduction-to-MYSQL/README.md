@@ -1,6 +1,5 @@
-This folder contains all MySQL queries, practice codes, and datasets used during my SQL learning journey as part of the GFG (GeeksforGeeks) Course.
+This folder contains all MySQL queries, practice codes, and datasets used during learning journey as part of the GFG (GeeksforGeeks) Course.
 <br/>
-It covers fundamental to intermediate SQL concepts with hands-on query implementation.
 
 The Folder Contains:
 <br/>
