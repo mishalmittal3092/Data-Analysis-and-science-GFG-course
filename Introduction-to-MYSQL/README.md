@@ -4,4 +4,5 @@ The Folder Contains:<br>
 <b>1. DDL Commands <br>
 2. DML & SELECT Queries<br>
 3. ORDER BY & GROUP BY<br>
-4. JOINS & SubQueries
+4. JOINS & SubQueries<br>
+5. Window Functions & CTEs
