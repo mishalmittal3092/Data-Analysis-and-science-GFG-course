@@ -5,4 +5,5 @@ The Folder Contains:<br>
 2. DML & SELECT Queries<br>
 3. ORDER BY & GROUP BY<br>
 4. JOINS & SubQueries<br>
-5. Window Functions & CTEs
+5. Window Functions & CTEs<br>
+6. Views & Temporary tables
