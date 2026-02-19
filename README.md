@@ -12,5 +12,8 @@ Table Of Contents:<b>
      g. Functions & Procedures<br>
      h. Data Cleaning with MYSQL<br><b>
 2. Core Python:</b><br>
-     a. LOOPS<br>
+     a. LOOPS<br><b>
+3. Inventory Management with Python:</b><br>
+     a. With Text Files<br>
+     b. With JSON Files
      
